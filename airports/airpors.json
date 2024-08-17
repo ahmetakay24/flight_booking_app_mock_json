@@ -1,0 +1,527 @@
+[
+    {
+      "id": 1,
+      "country": "ABD",
+      "city": "New York",
+      "airport": "John F. Kennedy International Airport",
+      "code": "JFK"
+    },
+    {
+      "id": 2,
+      "country": "United Kingdom",
+      "city": "Londra",
+      "airport": "Heathrow Airport",
+      "code": "LHR"
+    },
+    {
+      "id": 3,
+      "country": "Fransa",
+      "city": "Paris",
+      "airport": "Charles de Gaulle Airport",
+      "code": "CDG"
+    },
+    {
+      "id": 4,
+      "country": "Japonya",
+      "city": "Tokyo",
+      "airport": "Haneda Airport",
+      "code": "HND"
+    },
+    {
+      "id": 5,
+      "country": "Almanya",
+      "city": "Frankfurt",
+      "airport": "Frankfurt Airport",
+      "code": "FRA"
+    },
+    {
+      "id": 6,
+      "country": "Türkiye",
+      "city": "İstanbul",
+      "airport": "İstanbul Airport",
+      "code": "IST"
+    },
+    {
+      "id": 7,
+      "country": "Birleşik Arap Emirlikleri",
+      "city": "Dubai",
+      "airport": "Dubai International Airport",
+      "code": "DXB"
+    },
+    {
+      "id": 8,
+      "country": "Çin",
+      "city": "Pekin",
+      "airport": "Pekin Başkent International Airport",
+      "code": "PEK"
+    },
+    {
+      "id": 9,
+      "country": "Hollanda",
+      "city": "Amsterdam",
+      "airport": "Amsterdam Schiphol Airport",
+      "code": "AMS"
+    },
+    {
+      "id": 10,
+      "country": "İspanya",
+      "city": "Madrid",
+      "airport": "Adolfo Suárez Madrid-Barajas Airport",
+      "code": "MAD"
+    },
+    {
+      "id": 11,
+      "country": "Kanada",
+      "city": "Toronto",
+      "airport": "Toronto Pearson International Airport",
+      "code": "YYZ"
+    },
+    {
+      "id": 12,
+      "country": "Avustralya",
+      "city": "Sydney",
+      "airport": "Sydney Kingsford Smith Airport",
+      "code": "SYD"
+    },
+    {
+      "id": 13,
+      "country": "Singapur",
+      "city": "Singapur",
+      "airport": "Singapur Changi Airport",
+      "code": "SIN"
+    },
+    {
+      "id": 14,
+      "country": "İtalya",
+      "city": "Roma",
+      "airport": "Roma-Fiumicino International Airport",
+      "code": "FCO"
+    },
+    {
+      "id": 15,
+      "country": "Rusya",
+      "city": "Moskova",
+      "airport": "Şeremetyevo International Airport",
+      "code": "SVO"
+    },
+    {
+      "id": 16,
+      "country": "Güney Kore",
+      "city": "Seul",
+      "airport": "Incheon International Airport",
+      "code": "ICN"
+    },
+    {
+      "id": 17,
+      "country": "Tayland",
+      "city": "Bangkok",
+      "airport": "Suvarnabhumi Airport",
+      "code": "BKK"
+    },
+    {
+      "id": 18,
+      "country": "Hindistan",
+      "city": "Delhi",
+      "airport": "Indira Gandhi International Airport",
+      "code": "DEL"
+    },
+    {
+      "id": 19,
+      "country": "Brezilya",
+      "city": "São Paulo",
+      "airport": "São Paulo-Guarulhos International Airport",
+      "code": "GRU"
+    },
+    {
+      "id": 20,
+      "country": "Meksika",
+      "city": "Mexico City",
+      "airport": "Benito Juárez International Airport",
+      "code": "MEX"
+    },
+    {
+      "id": 21,
+      "country": "İsveç",
+      "city": "Stockholm",
+      "airport": "Stockholm Arlanda Airport",
+      "code": "ARN"
+    },
+    {
+      "id": 22,
+      "country": "Norveç",
+      "city": "Oslo",
+      "airport": "Oslo Airport",
+      "code": "OSL"
+    },
+    {
+      "id": 23,
+      "country": "Danimarka",
+      "city": "Kopenhag",
+      "airport": "Kopenhag Airport",
+      "code": "CPH"
+    },
+    {
+      "id": 24,
+      "country": "Finlandiya",
+      "city": "Helsinki",
+      "airport": "Helsinki-Vantaa Airport",
+      "code": "HEL"
+    },
+    {
+      "id": 25,
+      "country": "Polonya",
+      "city": "Varşova",
+      "airport": "Varşova Chopin Airport",
+      "code": "WAW"
+    },
+    {
+      "id": 26,
+      "country": "Avusturya",
+      "city": "Viyana",
+      "airport": "Viyana International Airport",
+      "code": "VIE"
+    },
+    {
+      "id": 27,
+      "country": "İsviçre",
+      "city": "Zürih",
+      "airport": "Zürih Airport",
+      "code": "ZRH"
+    },
+    {
+      "id": 28,
+      "country": "Belçika",
+      "city": "Brüksel",
+      "airport": "Brüksel Airport",
+      "code": "BRU"
+    },
+    {
+      "id": 29,
+      "country": "Portekiz",
+      "city": "Lizbon",
+      "airport": "Lizbon Humberto Delgado Airport",
+      "code": "LIS"
+    },
+    {
+      "id": 30,
+      "country": "Yunanistan",
+      "city": "Atina",
+      "airport": "Atina International Airport",
+      "code": "ATH"
+    },
+    {
+      "id": 31,
+      "country": "İrlanda",
+      "city": "Dublin",
+      "airport": "Dublin Airport",
+      "code": "DUB"
+    },
+    {
+      "id": 32,
+      "country": "Çek Cumhuriyeti",
+      "city": "Prag",
+      "airport": "Václav Havel Prag Airport",
+      "code": "PRG"
+    },
+    {
+      "id": 33,
+      "country": "Macaristan",
+      "city": "Budapeşte",
+      "airport": "Budapeşte Ferenc Liszt International Airport",
+      "code": "BUD"
+    },
+    {
+      "id": 34,
+      "country": "Romanya",
+      "city": "Bükreş",
+      "airport": "Henri Coandă International Airport",
+      "code": "OTP"
+    },
+    {
+      "id": 35,
+      "country": "Yeni Zelanda",
+      "city": "Auckland",
+      "airport": "Auckland Airport",
+      "code": "AKL"
+    },
+    {
+      "id": 36,
+      "country": "Arjantin",
+      "city": "Buenos Aires",
+      "airport": "Ministro Pistarini International Airport",
+      "code": "EZE"
+    },
+    {
+      "id": 37,
+      "country": "Şili",
+      "city": "Santiago",
+      "airport": "Arturo Merino Benítez International Airport",
+      "code": "SCL"
+    },
+    {
+      "id": 38,
+      "country": "Güney Afrika",
+      "city": "Johannesburg",
+      "airport": "O. R. Tambo International Airport",
+      "code": "JNB"
+    },
+    {
+      "id": 39,
+      "country": "Mısır",
+      "city": "Kahire",
+      "airport": "Kahire International Airport",
+      "code": "CAI"
+    },
+    {
+      "id": 40,
+      "country": "Malezya",
+      "city": "Kuala Lumpur",
+      "airport": "Kuala Lumpur International Airport",
+      "code": "KUL"
+    },
+    {
+      "id": 41,
+      "country": "Endonezya",
+      "city": "Jakarta",
+      "airport": "Soekarno-Hatta International Airport",
+      "code": "CGK"
+    },
+    {
+      "id": 42,
+      "country": "Filipinler",
+      "city": "Manila",
+      "airport": "Ninoy Aquino International Airport",
+      "code": "MNL"
+    },
+    {
+      "id": 43,
+      "country": "Vietnam",
+      "city": "Ho Chi Minh City",
+      "airport": "Tan Son Nhat International Airport",
+      "code": "SGN"
+    },
+    {
+      "id": 44,
+      "country": "Katar",
+      "city": "Doha",
+      "airport": "Hamad International Airport",
+      "code": "DOH"
+    },
+    {
+      "id": 45,
+      "country": "Suudi Arabistan",
+      "city": "Cidde",
+      "airport": "Kral Abdülaziz International Airport",
+      "code": "JED"
+    },
+    {
+      "id": 46,
+      "country": "Pakistan",
+      "city": "Karaçi",
+      "airport": "Jinnah International Airport",
+      "code": "KHI"
+    },
+    {
+      "id": 47,
+      "country": "Bangladeş",
+      "city": "Dakka",
+      "airport": "Hazrat Shahjalal International Airport",
+      "code": "DAC"
+    },
+    {
+      "id": 48,
+      "country": "Nijerya",
+      "city": "Lagos",
+      "airport": "Murtala Muhammed International Airport",
+      "code": "LOS"
+    },
+    {
+      "id": 49,
+      "country": "Kenya",
+      "city": "Nairobi",
+      "airport": "Jomo Kenyatta International Airport",
+      "code": "NBO"
+    },
+    {
+      "id": 50,
+      "country": "Peru",
+      "city": "Lima",
+      "airport": "Jorge Chávez International Airport",
+      "code": "LIM"
+    },
+    {
+      "id": 51,
+      "country": "Kolombiya",
+      "city": "Bogotá",
+      "airport": "El Dorado International Airport",
+      "code": "BOG"
+    },
+    {
+      "id": 52,
+      "country": "Fas",
+      "city": "Kazablanka",
+      "airport": "Mohammed V International Airport",
+      "code": "CMN"
+    },
+    {
+      "id": 53,
+      "country": "İran",
+      "city": "Tahran",
+      "airport": "İmam Humeyni International Airport",
+      "code": "IKA"
+    },
+    {
+      "id": 54,
+      "country": "Ukrayna",
+      "city": "Kiev",
+      "airport": "Boryspil International Airport",
+      "code": "KBP"
+    },
+    {
+      "id": 55,
+      "country": "Kazakistan",
+      "city": "Almatı",
+      "airport": "Almatı International Airport",
+      "code": "ALA"
+    },
+    {
+        "id": 56,
+        "country": "Küba",
+        "city": "Havana",
+        "airport": "José Martí International Airport",
+        "code": "HAV"
+      },
+      {
+        "id": 57,
+        "country": "Dominik Cumhuriyeti",
+        "city": "Punta Cana",
+        "airport": "Punta Cana International Airport",
+        "code": "PUJ"
+      },
+      {
+        "id": 58,
+        "country": "Jamaika",
+        "city": "Montego Bay",
+        "airport": "Sangster International Airport",
+        "code": "MBJ"
+      },
+      {
+        "id": 59,
+        "country": "Panama",
+        "city": "Panama City",
+        "airport": "Tocumen International Airport",
+        "code": "PTY"
+      },
+      {
+        "id": 60,
+        "country": "Uruguay",
+        "city": "Montevideo",
+        "airport": "Carrasco International Airport",
+        "code": "MVD"
+      },
+      {
+        "id": 61,
+        "country": "Ekvador",
+        "city": "Quito",
+        "airport": "Mariscal Sucre International Airport",
+        "code": "UIO"
+      },
+      {
+        "id": 62,
+        "country": "Sırbistan",
+        "city": "Belgrad",
+        "airport": "Nikola Tesla Airport",
+        "code": "BEG"
+      },
+      {
+        "id": 63,
+        "country": "Hırvatistan",
+        "city": "Zagreb",
+        "airport": "Franjo Tuđman Airport",
+        "code": "ZAG"
+      },
+      {
+        "id": 64,
+        "country": "Slovenya",
+        "city": "Ljubljana",
+        "airport": "Jože Pučnik Airport",
+        "code": "LJU"
+      },
+      {
+        "id": 65,
+        "country": "Bulgaristan",
+        "city": "Sofya",
+        "airport": "Sofya Airport",
+        "code": "SOF"
+      },
+      {
+        "id": 66,
+        "country": "Litvanya",
+        "city": "Vilnius",
+        "airport": "Vilnius International Airport",
+        "code": "VNO"
+      },
+      {
+        "id": 67,
+        "country": "Letonya",
+        "city": "Riga",
+        "airport": "Riga International Airport",
+        "code": "RIX"
+      },
+      {
+        "id": 68,
+        "country": "Estonya",
+        "city": "Tallinn",
+        "airport": "Lennart Meri Tallinn Airport",
+        "code": "TLL"
+      },
+      {
+        "id": 69,
+        "country": "Azerbaycan",
+        "city": "Bakü",
+        "airport": "Haydar Aliyev International Airport",
+        "code": "GYD"
+      },
+      {
+        "id": 70,
+        "country": "Gürcistan",
+        "city": "Tiflis",
+        "airport": "Shota Rustaveli Tiflis International Airport",
+        "code": "TBS"
+      },
+      {
+        "id": 71,
+        "country": "Ermenistan",
+        "city": "Erivan",
+        "airport": "Zvartnots International Airport",
+        "code": "EVN"
+      },
+      {
+        "id": 72,
+        "country": "Kırgızistan",
+        "city": "Bişkek",
+        "airport": "Manas International Airport",
+        "code": "FRU"
+      },
+      {
+        "id": 73,
+        "country": "Özbekistan",
+        "city": "Taşkent",
+        "airport": "Taşkent International Airport",
+        "code": "TAS"
+      },
+      {
+        "id": 74,
+        "country": "Tacikistan",
+        "city": "Duşanbe",
+        "airport": "Duşanbe International Airport",
+        "code": "DYU"
+      },
+      {
+        "id": 75,
+        "country": "Türkmenistan",
+        "city": "Aşkabat",
+        "airport": "Aşkabat International Airport",
+        "code": "ASB"
+      }
+]
